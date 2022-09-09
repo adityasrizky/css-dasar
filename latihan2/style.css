@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 100px;
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  line-height: 50px;
+}
+
+/* CSS Font Shorthand */
+/* font: italic normal bold 16px/18px helvetica,arial, sans-serif */
+
+/* font style */
+/* font variant */
+/* font weight */
+/* (WAJIB)font size/line height */
+/* (WAJIB)font family */

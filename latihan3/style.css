@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(0, 0, 128);
+  font-size: 100px;
+  text-decoration: underline;
+  text-transform: lowercase;
+  letter-spacing: 5px;
+}
+
+p {
+  text-align: left;
+  text-indent: 30px;
+  word-spacing: 5px;
+}
+
+a {
+  text-decoration: none;
+}
